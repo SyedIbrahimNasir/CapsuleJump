@@ -1,0 +1,38 @@
+Converting script [1 / 6]	[\Scripts\LookAtMouse.cs]
+	Fragments : 3
+		[ 0] : Line:   12	Other mod.	[Cursor.lockState]
+		[ 1] : Line:   16	InputMethod   GetAxis             	("Mouse X")
+		[ 2] : Line:   17	InputMethod   GetAxis             	("Mouse Y")
+
+Converting script [2 / 6]	[\Scripts\PauseMenu.cs]
+	Fragments : 1
+		[ 0] : Line:   14	InputMethod   GetKeyDown          	(KeyCode.Escape)
+
+Converting script [3 / 6]	[\Scripts\Player.cs]
+	Fragments : 2
+		[ 0] : Line:   10	InputMethod   GetAxis             	("Horizontal")
+		[ 1] : Line:   10	InputMethod   GetAxis             	("Vertical")
+
+Converting script [4 / 6]	[\Scripts\PlayerJump.cs]
+	Fragments : 1
+		[ 0] : Line:   28	InputMethod   GetKeyDown          	(KeyCode.Space)
+
+Converting script [5 / 6]	[\Scripts\SettingsMenu.cs]
+	Fragments : 1
+		[ 0] : Line:   22	Other mod.	[Screen.fullScreen]
+
+Converting script [6 / 6]	[\Scripts\UsingInstantiate.cs]
+	Fragments : 1
+		[ 0] : Line:   14	InputMethod   GetButtonDown       	("Fire1")
+
+
+6 scripts modified!
+Overwriting actual scripts...
+	[0 / 6] from  [C:/Users/SmartCom/Game/CF2-Data/Script-Backups/2022-11-14-14-22\Assets-After/\Scripts\LookAtMouse.cs] to [C:/Users/SmartCom/Game/Assets/\Scripts\LookAtMouse.cs]
+	[1 / 6] from  [C:/Users/SmartCom/Game/CF2-Data/Script-Backups/2022-11-14-14-22\Assets-After/\Scripts\PauseMenu.cs] to [C:/Users/SmartCom/Game/Assets/\Scripts\PauseMenu.cs]
+	[2 / 6] from  [C:/Users/SmartCom/Game/CF2-Data/Script-Backups/2022-11-14-14-22\Assets-After/\Scripts\Player.cs] to [C:/Users/SmartCom/Game/Assets/\Scripts\Player.cs]
+	[3 / 6] from  [C:/Users/SmartCom/Game/CF2-Data/Script-Backups/2022-11-14-14-22\Assets-After/\Scripts\PlayerJump.cs] to [C:/Users/SmartCom/Game/Assets/\Scripts\PlayerJump.cs]
+	[4 / 6] from  [C:/Users/SmartCom/Game/CF2-Data/Script-Backups/2022-11-14-14-22\Assets-After/\Scripts\SettingsMenu.cs] to [C:/Users/SmartCom/Game/Assets/\Scripts\SettingsMenu.cs]
+	[5 / 6] from  [C:/Users/SmartCom/Game/CF2-Data/Script-Backups/2022-11-14-14-22\Assets-After/\Scripts\UsingInstantiate.cs] to [C:/Users/SmartCom/Game/Assets/\Scripts\UsingInstantiate.cs]
+
+Overwriting COMPLETED!
